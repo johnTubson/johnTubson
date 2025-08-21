@@ -62,11 +62,6 @@ Welcome to my GitHub profile! I'm a passionate programmer with a focus on develo
 
 ---
 
-## 📈 GitHub Stats
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnTubson&show_icons=true&theme=radical)
-
----
-
 ## 📫 Let's Connect!
 - **Email**: [johntubson@gmail.com](mailto:johntubson@gmail.com)
 - **LinkedIn**: [John Olatubosun](https://www.linkedin.com/in/john-olatubosun-89411227a)
