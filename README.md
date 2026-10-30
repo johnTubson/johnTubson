@@ -32,7 +32,7 @@ Most of that code is private, so the public repos below are where you can read h
 
 **Backend:** Node.js, NestJS, Express, gRPC, REST, GraphQL · **Data:** PostgreSQL, MySQL, Prisma, Redis, RabbitMQ,
 BullMQ, OpenSearch · **Frontend:** React, Next.js, TanStack, Tailwind · **Payments:** Paystack, Stripe ·
-**Platform:** Docker, GitHub Actions, AWS, GCP, Azure · **AI:** Gemini, DeepSeek, provider fallback
+**Platform:** Docker, GitHub Actions, AWS, GCP, Azure · **AI:** Gemini, DeepSeek, OpenAI, Anthropic Claude
 
 ## Contact
 
